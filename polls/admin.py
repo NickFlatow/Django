@@ -29,3 +29,6 @@ admin.site.register(Choice)
 #test 20 commnet
 #test 21 comment 
 #test 22 comment
+#test 23 commnet
+#test 24 comment
+#test 25 comment
