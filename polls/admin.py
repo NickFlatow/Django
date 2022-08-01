@@ -11,3 +11,7 @@ admin.site.register(Choice)
 #from .models import Question
 #admin.site.register(Question)
 #add another class to admin.py:
+
+
+#test comment
+#other test comment
